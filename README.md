@@ -21,8 +21,8 @@ The system was iteratively tested and validated through signal measurement and a
 **Images:**
 
 - Empty PCB  
-![Empty PCB - Front side](images/Prazna_prednja.jpeg)
-![Empty PCB - Bottom side](images/Prazna_zadnja.jpg)
+![Empty PCB - Front side](images/Prazna_prednja.jpg)
+![Empty PCB - Bottom side](images/Prazna_zadnja.jpeg)
 
 - Assembled PCB  
 ![Assembled PCB - Front side](images/Prednja_sastavljena.jpeg)
